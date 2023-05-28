@@ -1,0 +1,6 @@
+{
+  "name": "Enka-Import",
+  "description": "Import your displayed builds on official.",
+  "mainClass": "moe.seikimo.enka.EnkaImport",
+  "api": 2
+}
